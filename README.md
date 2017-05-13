@@ -9,6 +9,11 @@ Q2: 九宫格上填1-9共9个数字，使每行、每列以及对角线的数字
 Q3:随机生成2个10位的整数，并计算2个整数的乘积
 
 ## Results:
+## Answer1:
 ![image](https://github.com/NewYorkFive/SwiftThreeQuestion/blob/master/AnswerOfQuestion1.png)
+
+## Answer2:
 ![image](https://github.com/NewYorkFive/SwiftThreeQuestion/blob/master/AnswerOfQuestion2.png)
+
+## Answer3:
 ![image](https://github.com/NewYorkFive/SwiftThreeQuestion/blob/master/AnswerOfQuestion3.png)
